@@ -1,0 +1,7 @@
+/.idea
+
+/vendor/
+.vercel
+
+# Local Netlify folder
+.netlify
